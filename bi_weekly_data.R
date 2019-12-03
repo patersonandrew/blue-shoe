@@ -177,3 +177,4 @@ summary_geometry <- full_data_joined %>%
 # t-tests among each parameter? (within geometry, abrasion, hardness, rubber type)
 # some sort of test across all parameters?
 # comparing mass loss and change in tread depth
+# comparing if rate of plastic losses changes with more wear. So, do shoes lose more mass per mile in the first 3 months of wear or next 3?
